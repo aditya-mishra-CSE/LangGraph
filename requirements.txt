@@ -1,0 +1,22 @@
+langgraph
+langchain
+dotenv
+langchain_google_genai
+langchain-community
+langchain-text-splitters
+
+pydantic
+
+streamlit
+
+langgraph-checkpoint-sqlite
+
+langchain-mcp-adapters
+
+aiosqlite
+
+#After installing these i got the error of Microsoft Visual C++ Redistributable is not installed
+
+faiss-cpu
+pypdf
+sentence-transformers

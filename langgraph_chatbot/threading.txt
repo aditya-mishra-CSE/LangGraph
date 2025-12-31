@@ -1,0 +1,23 @@
+-> Add a sidebar with title + A start chat button + A title named 'My Conversation'
+
+-> Generate a dynamic thread Id and it to the session
+
+-> Display the thread id in sidebar 
+
+**********************************************************
+
+-> On click of new chat open a new chat window 
+        * Generate a new thread_id
+        * Save it in sessionReset message history
+
+**********************************************************
+
+-> Create a list to store all thread_ids
+
+-> Load all the thread ids in the sidebar
+
+-> Convert the sidebar text to clickable button
+
+**********************************************************
+
+-> On Click of a particular thread id load that particular conversation
